@@ -9,3 +9,8 @@ I've made a Arduino UNO shield which is inspired by the project mention above.
 You will find the schematics and pcb here (has not been tested yet):
 https://easyeda.com/sbsivertsen/avr_frs_shield
 
+![Screenshot](https://raw.githubusercontent.com/datamann/AVR-High-Voltage-Programmer-Shield/master/images/AVR-High-Voltage-Programmer-Shield-Schematics.png)
+![Screenshot](https://raw.githubusercontent.com/datamann/AVR-High-Voltage-Programmer-Shield/master/images/AVR-High-Voltage-Programmer-Shield-PCB-3D.png)
+![Screenshot](https://raw.githubusercontent.com/datamann/AVR-High-Voltage-Programmer-Shield/master/images/AVR-High-Voltage-Programmer-Shield-PCB-Top.png)
+![Screenshot](https://raw.githubusercontent.com/datamann/AVR-High-Voltage-Programmer-Shield/master/images/AVR-High-Voltage-Programmer-Shield-PCB-Bottom.png)
+
